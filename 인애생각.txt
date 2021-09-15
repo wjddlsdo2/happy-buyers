@@ -1,0 +1,12 @@
+main: 소비자들이 보는 페이지
+
+sign in 시 관리자
+
+
+buyer page / manage;edit
+
+
+manage;edit 페이지 구성
+- product 관리
+- 회계 관리
+- 사원 관리
